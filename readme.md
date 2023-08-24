@@ -22,3 +22,4 @@ A turma está conseguindo usar o Git
     ESTUDAR:
         * LOCALIZAÇÃO EM TEMPO REAl;
         * USO DE APIS DO GOOGLE (GOOGLE EARTH API).
+teste
